@@ -1,0 +1,20 @@
+- develop
+git commit -m "noi dung"
+git pull origin develop
+--> check conflict
+git branch -m new-branch_v1
+git push new-branch_v1
+git checkout develop => git pull develop
+
+
+- Đang làm Task A, có task B ưu tiên 
+git commit -m "task A - part 1"
+git branch -m task_A
+
+git checkout develop
+git pull origin develop
+
+=> Làm task B
+=> Xong task B => checkout + pull develop => checkout task_A
+
+ 

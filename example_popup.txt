@@ -1,0 +1,28 @@
+const { createRoot } = ReactDOM;
+
+const {  Button, notification  } = antd;
+const App = () => {
+  const [api, contextHolder] = notification.useNotification();
+  const openNotification = ({message, type, tilte}) => {
+    api[type || 'open']({
+      message: tilte,
+      description: message,
+      className: 'custom-class',
+      style: {
+        width: 600,
+      },
+    });
+  };
+  return (
+    <>
+      {contextHolder}
+      <Button type="primary" onClick={() => openNotification({message:'hello test', tilte: 'Test', type: 'error'})}>
+        Open the notification box
+      </Button>
+    </>
+  );
+};
+const ComponentDemo = App;
+
+
+createRoot(mountNode).render(<ComponentDemo />);

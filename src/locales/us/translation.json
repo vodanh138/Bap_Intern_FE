@@ -1,0 +1,87 @@
+{
+  "ADMIN/DASHBOARD": {
+    "Header": {
+      "UserName": "User Name",
+      "Role_Admin": "ADMIN",
+      "Role_User": "USER"
+    },
+
+    "Template": {
+      "Title": "Template"
+    },
+    "CONFIG": {
+      "Config": "Config",
+      "Add_Template": {
+        "Title": "Add Template",
+        "Template_Name": "Template Name",
+        "Template_Option": "Template Options",
+        "New_Template": "New Template",
+        "Clone_Template": "Clone Template",
+        "Title_Placeholder": "Enter template name",
+        "Title_Required": "Please enter template name!",
+        "Choose_Option_Required": "Please choose an option!"
+      },
+      "Config_Template": "Config Template",
+      "Delete_Template": "Delete Template",
+      "Delete_Template_Confirm": "Confirm Delete Template?"
+    }
+  },
+  "BUTTON": {
+    "Save": "Save",
+    "Cancel": "Cancel",
+    "Delete": "Delete",
+    "Edit": "Edit",
+    "Create": "Create",
+    "Yes": "Yes",
+    "No": "No"
+  },
+
+  "CONFIG/PAGE": {
+    "EDIT_HEADER": {
+      "Title": "Edit Header",
+      "Header_Name": "Title",
+      "Choose_File": "Choose File",
+      "No_Image": "No image selected or uploaded",
+      "Title_Placeholder": "Enter title",
+      "Title_Required": "Please enter title!"
+    },
+    "EDIT_FOOTER": {
+      "Title": "Edit Footer",
+      "Footer_Content": "Footer Content",
+      "Title_Placeholder": "Enter title",
+      "Title_Required": "Please enter title!"
+    },
+    "EDIT_SECTION": {
+      "Title": "Edit Section",
+      "Section_Title": "Title",
+      "Section_Content_1": "Content 1",
+      "Section_Content_2": "Content 2",
+      "Type_1": "Type 1",
+      "Type_2": "Type 2"
+    },
+    "ADD_MORE_SECTION": "Add More Section",
+    "DELETE_SECTION": {
+      "Confirm": "Confirm Delete?",
+      "Content": "Are you sure you want to delete this section?"
+    }
+  },
+
+  "ADMIN/LOGIN": {
+    "Title": "Login",
+    "Username": "Username",
+    "Password": "Password",
+    "Submit": "Login",
+    "Error": "Invalid username or password!",
+    "Username_Required": "Please enter your username!",
+    "Password_Required": "Please enter your password!",
+    "Username_Placeholder": "Enter your username",
+    "Password_Placeholder": "Enter your password"
+},
+"BACKUP": {
+  "Title": "Look like your're lost",
+  "Description": "We are currently performing maintenance. Please check back later.",
+  "Email": "Please contact us via email: ",
+  "Button": "Back to Home"
+
+}
+}

@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header-wrapper {
+  width: 100%;
+}
+
+.content-wrapper {
+  flex: 1;
+  padding: 16px;
+}
+
+.footer-wrapper {
+  width: 100%;
+}
+
+.section-content {
+  margin-bottom: 20px;
+}
+
+.content-single {
+  padding: 10px;
+}
+
+.content-double {
+  display: flex;
+  justify-content: space-between;
+}
+
+.content-part {
+  flex: 1;
+  margin: 0 5px;
+  padding: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+i.flag:not(.icon) {
+  margin: 0 0 0 0;
+}

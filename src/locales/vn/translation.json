@@ -1,0 +1,81 @@
+{
+  "ADMIN/DASHBOARD": {
+    "Header": {
+      "UserName": "User Name",
+      "Role_Admin": "Quản trị viên",
+      "Role_User": "Người dùng"
+    },
+
+    "Template": {
+      "Title": "Bản Mẫu"
+    },
+    "CONFIG": {
+      "Config": "Cấu hình",
+      "Add_Template": {
+        "Title": "Thêm Bản Mẫu",
+        "Template_Name": "Tên Bản Mẫu",
+        "Template_Option": "Chọn Bản Mẫu",
+        "New_Template": "Bản Mẫu Mới",
+        "Clone_Template": "Sao chép Bản Mẫu",
+        "Title_Placeholder": "Nhập tên bản mẫu",
+        "Title_Required": "Vui lòng nhập tên bản mẫu!",
+        "Choose_Option_Required": "Vui lòng chọn một tùy chọn!"
+      },
+      "Config_Template": "Cấu hình Bản Mẫu",
+      "Delete_Template": "Xóa Bản Mẫu",
+      "Delete_Template_Confirm": "Xác nhận xóa Biểu mẫu?"
+    }
+  },
+  "BUTTON": {
+    "Save": "Lưu",
+    "Cancel": "Hủy",
+    "Delete": "Xóa",
+    "Edit": "Sửa",
+    "Create": "Tạo",
+    "Yes": "Có",
+    "No": "Không"
+  },
+  "CONFIG/PAGE": {
+    "EDIT_HEADER": {
+      "Title": "Sửa Tiêu Đề Đầu Trang",
+      "Header_Name": "Tiêu đề",
+      "Choose_File": "Chọn File",
+      "No_Image": "Không có ảnh nào được chọn hoặc tải lên"
+    },
+    "EDIT_FOOTER": {
+      "Title": "Sửa Tiêu Đề Cuối Trang",
+      "Footer_Content": "Nội dung cuối trang"
+    },
+    "EDIT_SECTION": {
+      "Title": "Sửa Nội dung",
+      "Section_Title": "Tiêu đề",
+      "Section_Content_1": "Nội dung 1",
+      "Section_Content_2": "Nội dung 2",
+      "Type_1": "Loại 1",
+      "Type_2": "Loại 2"
+    },
+    "ADD_MORE_SECTION": "Thêm Nội dung",
+    "DELETE_SECTION": {
+      "Confirm": "Xác nhận xóa?",
+      "Content": "Bạn có chắc chắn muốn xóa nội dung này không?"
+    }
+  },
+  "ADMIN/LOGIN": {
+    "Title": "Đăng nhập",
+    "Username": "Tên đăng nhập",
+    "Password": "Mật khẩu",
+    "Submit": "Đăng nhập",
+    "Error": "Tên đăng nhập hoặc mật khẩu không chính xác!",
+    "Username_Required": "Vui lòng nhập tên đăng nhập!",
+    "Password_Required": "Vui lòng nhập mật khẩu!",
+    "Username_Placeholder": "Nhập tên đăng nhập",
+    "Password_Placeholder": "Nhập mật khẩu"
+  },
+  "BACKUP": {
+    "Title": "Trông như bạn bị lạc rồi",
+    "Description": "Chúng tôi hiện đang tiến hành bảo trì. Vui lòng kiểm tra lại sau.",
+    "Email": "Hãy liên hệ với chúng tôi qua email: ",
+    "Button": "Quay lại trang chủ"
+  }
+  
+}

@@ -1,0 +1,61 @@
+{
+  "NOTI": {
+    "Success": "Success!",
+    "Error": "Error!",
+    "Duplicate": "Data already exists!",
+    "Empty": "Please fill in all information!"
+  },
+  "ADD_TEMPLATE": {
+    "Success": "Template added successfully!",
+    "Error": "Failed to add template!",
+    "Duplicate": "Template name already exists!"
+  },
+  "CLONE_TEMPLATE": {
+    "Success": "Template cloned successfully!",
+    "Error": "Please select the template to clone!",
+    "Empty": "Please select the template to clone!",
+    "Duplicate": "Template name already exists!"
+  },
+  "DELETE_TEMPLATE": {
+    "Success": "Template deleted successfully!",
+    "Error": "Failed to delete template!",
+    "Empty": "Please select the template to delete!"
+  },
+  "CHOOSE_TEMPLATE": {
+    "Success": "Template selected successfully!",
+    "Error": "Please select the template to use!",
+    "Empty": "Please select the template to use!"
+  },
+  "ADD_SECTION": {
+    "Success": "Section added successfully!",
+    "Error": "Failed to add section!",
+    "Empty": "Please fill in all information!"
+  },
+    "EDIT_SECTION": {
+        "Success": "Section edited successfully!",
+        "Error": "Failed to edit section!",
+        "Empty": "Please fill in all information!",
+        "Title_Error": "Title must not exceed 20 characters!"
+    },
+    "DELETE_SECTION": {
+        "Success": "Section deleted successfully!",
+        "Error": "Failed to delete section!",
+        "Empty": "Please select the section to delete!",
+        "One_Section": "There must be at least one section. You can't delete it!"
+    },
+    "EDIT_HEADER": {
+        "Success": "Header edited successfully!",
+        "Error": "Failed to edit header!",
+        "Empty": "Please fill in all information!"
+    },
+    "EDIT_FOOTER": {
+        "Success": "Footer edited successfully!",
+        "Error": "Failed to edit footer!",
+        "Empty": "Please fill in all information!"
+   },
+   "LOGIN": {
+        "Success": "Login successful!",
+        "Error": "Invalid username or password!",
+        "Empty": "Please fill in all information!"
+   }
+}

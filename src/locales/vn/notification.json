@@ -1,0 +1,69 @@
+{
+  "NOTI": {
+    "Success": "Thành công!",
+    "Error": "Có lỗi xảy ra!",
+    "Duplicate": "Dữ liệu đã tồn tại!",
+    "Empty": "Vui lòng điền đầy đủ thông tin!"
+  },
+  "ADD_TEMPLATE": {
+    "Success": "Bản Mẫu đã được thêm thành công!",
+    "Error": "Có lỗi xảy ra khi thêm Bản Mẫu!",
+    "Duplicate": "Tên Bản Mẫu đã tồn tại!",
+    "Empty": "Vui lòng điền đầy đủ thông tin!"
+  },
+  "CLONE_TEMPLATE": {
+    "Success": "Bản Mẫu đã được sao chép thành công!",
+    "Error": "Hãy chọn Bản Mẫu cần sao chép!",
+    "Empty": "Vui lòng chọn Bản Mẫu cần sao chép!",
+    "Duplicate": "Tên Bản Mẫu đã tồn tại!"
+  },
+  "DELETE_TEMPLATE": {
+    "Success": "Bản Mẫu đã được xóa thành công!",
+    "Error": "Có lỗi xảy ra khi xóa Bản Mẫu!",
+    "Empty": "Vui lòng chọn Bản Mẫu cần xóa!"
+  },
+  "CHOOSE_TEMPLATE": {
+    "Success": "Bản Mẫu đã được chọn thành công!",
+    "Error": "Hãy chọn Bản Mẫu cần sử dụng!",
+    "Empty": "Vui lòng chọn Bản Mẫu cần sử dụng!",
+    "Duplicate": "Tên Bản Mẫu đã tồn tại!"
+  },
+
+  "ADD_SECTION": {
+    "Success": "Nội dung đã được thêm thành công!",
+    "Error": "Có lỗi xảy ra khi thêm nội dung!",
+    "Empty": "Vui lòng điền đầy đủ thông tin!"
+  },
+
+  "EDIT_SECTION": {
+    "Success": "Nội dung đã được sửa thành công!",
+    "Error": "Có lỗi xảy ra khi sửa nội dung!",
+    "Empty": "Vui lòng điền đầy đủ thông tin!",
+    "Title_Error": "Tiêu đề không được vượt quá 20 ký tự!"
+  },
+
+  "DELETE_SECTION": {
+    "Success": "Nội dung đã được xóa thành công!",
+    "Error": "Có lỗi xảy ra khi xóa nội dung!",
+    "Empty": "Vui lòng chọn nội dung cần xóa!",
+    "One_Section": "Phải có ít nhất một nội dung. Bạn không thể xóa!"
+  },
+
+  "EDIT_HEADER": {
+    "Success": "Tiêu đề đầu trang đã được sửa thành công!",
+    "Error": "Có lỗi xảy ra khi sửa tiêu đề đầu trang!",
+    "Empty": "Vui lòng điền đầy đủ thông tin!"
+  },
+
+  "EDIT_FOOTER": {
+    "Success": "Tiêu đề cuối trang đã được sửa thành công!",
+    "Error": "Có lỗi xảy ra khi sửa tiêu đề cuối trang!",
+    "Empty": "Vui lòng điền đầy đủ thông tin!"
+  },
+  "LOGIN": {
+    "Success": "Đăng nhập thành công!",
+    "Error": "Tên đăng nhập hoặc mật khẩu không chính xác!",
+    "Empty": "Vui lòng điền đầy đủ thông tin!",
+    "Title": "Đăng nhập thất bại!"
+  }
+}
